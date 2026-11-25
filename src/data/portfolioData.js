@@ -15,7 +15,7 @@ export const personalDetails = {
   dob: "3rd Feb, 2004",
   gender: "Male",
   languages: ["English", "Kannada", "Hindi"],
-  linkedin: "https://www.linkedin.com/in/prajwal-linkedin",
+  linkedin: "https://www.linkedin.com/in/prajwal2004",
   github: "https://github.com/prajju204",
   availability: "Available for Full-time Roles"
 };
