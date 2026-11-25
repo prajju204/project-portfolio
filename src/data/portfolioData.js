@@ -8,7 +8,7 @@ export const personalDetails = {
   ],
   role: "MCA Graduate | Software Developer | Frontend Developer",
   summary:
-    "MCA graduate (2026) with a 5-month software development internship and strong skills in software development, Java, and web technologies. Experienced in building Android and full-stack applications using Firebase, Supabase and MongoDB. Seeking an entry-level Software Developer role to apply and grow technical expertise.",
+    "MCA graduate (2026) with a 6-month software development internship and strong skills in software development, Java, and web technologies. Experienced in building Android and full-stack applications using Firebase, Supabase and MongoDB. Seeking an entry-level Software Developer role to apply and grow technical expertise.",
   email: "prajwaldp03@gmail.com",
   phone: "+91 8431967664",
   location: "Mattu, Udupi, Karnataka, India",
@@ -50,7 +50,7 @@ export const experienceList = [
     role: "Software Development Intern",
     company: "MCWARE Technologies LLP (MIhub)",
     period: "06 May 2026 – 07 Oct 2026",
-    duration: "5 Months",
+    duration: "6 Months",
     location: "Karnataka, India",
     type: "Internship",
     description:

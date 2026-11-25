@@ -19,7 +19,7 @@ All content has been extracted from Prajwal's resume.
    - Verified contact links (Email, Phone, LinkedIn, GitHub).
 
 3. **About Me**:
-   - Full narrative highlighting MCA (2026) and 5-month internship at **MCWARE Technologies LLP (MIhub)**.
+   - Full narrative highlighting MCA (2026) and 6-month internship at **MCWARE Technologies LLP (MIhub)**.
    - Personal details (DOB, Location: Mattu, Udupi, KA, Languages: English, Kannada, Hindi).
    - Personality strengths and sports/games achievement highlights.
 

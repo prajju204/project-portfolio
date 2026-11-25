@@ -58,7 +58,7 @@ export default function About() {
                   I am <strong className="text-white font-semibold">Prajwal</strong>, an MCA graduate (2026) from <span className="text-indigo-400 font-medium">Poornaprajna Institute of Management</span> with a strong foundation in computer science and modern software engineering practices.
                 </p>
                 <p>
-                  I have completed a hands-on <strong className="text-white font-semibold">5-month Software Development Internship</strong> at <span className="text-blue-400 font-medium">MCWARE Technologies LLP (MIhub)</span> (06 May 2026 – 07 Oct 2026), where I actively worked on <strong className="text-white">Luxe Groom</strong> — a Salon & Clinical Treatment Appointment Management System. During this tenure, I engineered responsive user interfaces using <span className="text-indigo-300 font-mono">React.js</span> and <span className="text-cyan-300 font-mono">Tailwind CSS</span>, integrated real-time booking alerts with <span className="text-emerald-300 font-mono">MongoDB & Socket.io</span>, and leveraged modern AI coding environments including <span className="text-purple-300 font-mono">Google Antigravity</span> and <span className="text-indigo-300 font-mono">Claude AI</span> to write clean, optimized code.
+                  I have completed a hands-on <strong className="text-white font-semibold">6-month Software Development Internship</strong> at <span className="text-blue-400 font-medium">MCWARE Technologies LLP (MIhub)</span> (06 May 2026 – 07 Oct 2026), where I actively worked on <strong className="text-white">Luxe Groom</strong> — a Salon & Clinical Treatment Appointment Management System. During this tenure, I engineered responsive user interfaces using <span className="text-indigo-300 font-mono">React.js</span> and <span className="text-cyan-300 font-mono">Tailwind CSS</span>, integrated real-time booking alerts with <span className="text-emerald-300 font-mono">MongoDB & Socket.io</span>, and leveraged modern AI coding environments including <span className="text-purple-300 font-mono">Google Antigravity</span> and <span className="text-indigo-300 font-mono">Claude AI</span> to write clean, optimized code.
                 </p>
                 <p>
                   I have a deep passion for <strong className="text-white font-semibold">software development, Java, and modern web technologies</strong>. Having built both full-stack applications with Supabase & Firebase and native Android apps with offline support, I am eager to contribute my technical acumen to an entry-level Software Developer role.
@@ -69,7 +69,7 @@ export default function About() {
               <div className="mt-6 pt-6 border-t border-slate-800 grid grid-cols-2 sm:grid-cols-3 gap-3">
                 <div className="p-3 rounded-xl bg-slate-900/60 border border-slate-800">
                   <div className="text-xs text-slate-400">Internship</div>
-                  <div className="text-sm font-bold text-white mt-0.5">5 Months (MCWARE)</div>
+                  <div className="text-sm font-bold text-white mt-0.5">6 Months (MCWARE)</div>
                 </div>
                 <div className="p-3 rounded-xl bg-slate-900/60 border border-slate-800">
                   <div className="text-xs text-slate-400">Core Focus</div>

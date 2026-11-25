@@ -237,7 +237,7 @@ export default function Hero({ onOpenResume }) {
                       Internship
                     </span>
                     <span className="text-slate-200 font-semibold font-sans">
-                      MCWARE (5 Mo)
+                      MCWARE (6 Mo)
                     </span>
                   </div>
 
